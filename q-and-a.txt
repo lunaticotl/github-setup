@@ -3,20 +3,28 @@ Please answer the following questions:
 
 1. Who are you? :) (What is your full name?)
 
+Yingjie Lu
 
 2. What is your GitHub username?
 
+lunaticotl
 
 3. Where are you from (your hometown)?
 
+Shanghai, China
 
 4. What is your favorite local restaurant?
 
+POC
 
 5. What is the last good book you read (title, author)?
 
+All Quiet on the Western Front, Remaque, Erich Maria
 
 6. Which song is in heavy rotation on your MP3 player/iPod/iPhone/stream?
 
+Aimer - ポラリス
 
 7. If you were to build a web site for fun, what would it be about?
+
+I would like to build a website about all the games I played.
